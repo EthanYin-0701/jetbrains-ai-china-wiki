@@ -88,13 +88,13 @@ JetBrains AI 兼容任何通过 **ACP（AI Coding Protocol）** 接入的 AI Cod
 
 ![jcp.png](jcp.png)
 
-用户则可以通过 [JetBrains Central CLI]([https://www.jetbrains.com/central-cli/](https://www.jetbrains.com/central-cli/)) 来实现使用一个 JetBrains AI 帐户驱使多个 Agent 的能力。
+用户则可以通过 [JetBrains Central CLI](https://www.jetbrains.com/central-cli/) 来实现使用一个 JetBrains AI 帐户驱使多个 Agent 的能力。
 
 ![centraldesktop.png](centraldesktop.png)
 
 ![centralcli.png](centralcli.png)
 
-更多有关 JetBrains Central 的介绍请参考[官网博客]([https://blog.jetbrains.com/blog/2026/03/24/introducing-jetbrains-central-an-open-system-for-agentic-software-development/](https://blog.jetbrains.com/blog/2026/03/24/introducing-jetbrains-central-an-open-system-for-agentic-software-development/))。
+更多有关 JetBrains Central 的介绍请参考[官网博客](https://blog.jetbrains.com/blog/2026/03/24/introducing-jetbrains-central-an-open-system-for-agentic-software-development/)。
 
 ## 订阅与定价
 
